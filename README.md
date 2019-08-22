@@ -7,13 +7,20 @@ Projet de classe développé avec les langages HTML5, CSS3, JavaScript, PHP POO,
 - une fois réservé, il pourra acheter le billet.
 - le site possède une rubrique Home, une rubrique Vols, Hôtels, Hôtels et Vol et Véhicules.
 - vous pouvez seulement accéder à la rubrique Vol pour réserver et acheté un billet.
+- les autres rubriques ne sont pas disponible pour la réservation.
+
 Le projet contient tous les dossiers et fichiers nécessaires à son fonctionnement (y compris le fichier sql pour importer les tables de la base de données). 
 
 
 ![description_IMG](https://image.noelshack.com/fichiers/2019/34/4/1566481629-cap1.jpg) 
 
-![description_IMG](https://github.com/Margaux83/Burger-Market-PHP/blob/master/inscburger.PNG) 
+![description_IMG](https://image.noelshack.com/fichiers/2019/34/4/1566482041-cap2.jpg) 
 
-![description_IMG](https://github.com/Margaux83/Burger-Market-PHP/blob/master/coburger.PNG) 
+![description_IMG](https://image.noelshack.com/fichiers/2019/34/4/1566482041-cap3.jpg) 
 
-![description_IMG](https://github.com/Margaux83/Burger-Market-PHP/blob/master/membreburger.PNG) 
+![description_IMG](https://image.noelshack.com/fichiers/2019/34/4/1566482041-cap4.jpg) 
+
+![description_IMG](https://image.noelshack.com/fichiers/2019/34/4/1566482041-cap5.jpg) 
+
+![description_IMG](https://image.noelshack.com/fichiers/2019/34/4/1566482041-cap7.jpg) 
+
